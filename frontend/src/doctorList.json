@@ -1,0 +1,411 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Aarya Deshmukh",
+    "about": "A passionate cardiologist with 12+ years of experience. She specializes in treating heart rhythm disorders and heart failure. Known for her detailed diagnostics and empathetic patient care. Always up to date with the latest cardiology advancements.",
+    "department": "Cardiology",
+    "degree": "MBBS, MD, DM (Cardiology)",
+    "age": 42,
+    "email": "abc@gmail.com",
+    "phone": 9567456734,
+    "experience": "12 years",
+    "imageUrl": "...",
+    "education": [
+      "Doctor of Medicine (MD), Grant Medical College, Mumbai (2006)",
+      "DM Cardiology, AIIMS Delhi (2009)"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Dr. Rajeev Kapoor",
+    "about": "An expert in interventional cardiology with vast experience in angioplasty procedures. He focuses on preventative heart care and lifestyle modifications. Patients admire his calm demeanor and clarity in communication. Offers personalized heart health programs.",
+    "department": "Cardiology",
+    "degree": "MBBS, MD, DM (Cardiology)",
+    "age": 45,
+    "email": "abc@gmail.com",
+    "phone": 9567456734,
+    "experience": "15 years",
+    "imageUrl": "...",
+    "education": [
+      "MBBS, Maulana Azad Medical College, Delhi (2001)",
+      "MD (Medicine), PGIMER Chandigarh (2004)",
+      "DM (Cardiology), CMC Vellore (2007)"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Dr. Sneha Kulkarni",
+    "about": "Specializes in pediatric cardiology with a caring approach for young patients. She focuses on congenital heart defects and early diagnosis. Known for making kids feel comfortable during checkups. A true advocate for heart health from an early age.",
+    "department": "Cardiology",
+    "degree": "MBBS, DNB, Fellowship in Pediatric Cardiology",
+    "age": 38,
+    "email": "abc@gmail.com",
+    "phone": 9567456734,
+    "experience": "10 years",
+    "imageUrl": "...",
+    "education": [
+      "MBBS, B.J. Medical College, Pune (2007)",
+      "DNB Pediatrics, KEM Hospital Mumbai (2010)",
+      "Fellowship Pediatric Cardiology, Narayana Health Bangalore (2013)"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Dr. Nikhil Patil",
+    "about": "A highly skilled cardiothoracic surgeon known for his precision in bypass surgeries. Believes in a holistic recovery approach and patient education. Regularly publishes research on cardiac surgical innovations. His success rate is among the best in the region.",
+    "department": "Cardiology",
+    "degree": "MBBS, MS, MCh (Cardiothoracic Surgery)",
+    "age": 50,
+    "email": "abc@gmail.com",
+    "phone": 9567456734,
+    "experience": "20 years",
+    "imageUrl": "...",
+    "education": [
+      "MBBS, AFMC Pune (1995)",
+      "MS Surgery, AIIMS Delhi (1999)",
+      "MCh Cardiothoracic Surgery, JIPMER Puducherry (2002)"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Dr. Meera Saxena",
+    "about": "She blends technology with care in treating hypertension and lifestyle-related heart issues. Known for her friendly counseling style and customized diet plans. Encourages non-invasive treatment wherever possible. Patients trust her holistic approach.",
+    "department": "Cardiology",
+    "degree": "MBBS, MD (Medicine), Fellowship in Cardiology",
+    "age": 39,
+    "email": "abc@gmail.com",
+    "phone": 9567456734,
+    "experience": "11 years",
+    "imageUrl": "...",
+    "education": [
+      "MBBS, Lady Hardinge Medical College Delhi (2003)",
+      "MD Medicine, IGMC Nagpur (2007)",
+      "Fellowship Cardiology, Fortis Escorts Delhi (2010)"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Dr. Arjun Malhotra",
+    "about": "A seasoned orthopedic surgeon with expertise in joint replacement. Known for quick post‑surgery recovery programs. He’s friendly, patient‑focused, and dedicated to mobility restoration. He leads many bone‑health awareness camps.",
+    "department": "Orthopedics",
+    "degree": "MBBS, MS (Orthopedics)",
+    "age": 48,
+    "email": "abc@gmail.com",
+    "phone": 9567456734,
+    "experience": "18 years",
+    "imageUrl": "...",
+    "education": [
+      "MBBS, KGMU Lucknow (1999)",
+      "MS Orthopedics, AIIMS Delhi (2003)"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Dr. Shalini Joshi",
+    "about": "Specializes in sports injuries and physiotherapy‑guided recovery. Enthusiastic about non‑surgical treatments and modern orthobiologics. Works closely with young athletes for faster recovery. Her energy and positivity inspire many.",
+    "department": "Orthopedics",
+    "degree": "MBBS, MS, Fellowship in Sports Medicine",
+    "age": 37,
+    "email": "abc@gmail.com",
+    "phone": 9567456734,
+    "experience": "9 years",
+    "imageUrl": "...",
+    "education": [
+      "MBBS, LTMMC Mumbai (2006)",
+      "MS Orthopedics, BMC Pune (2009)",
+      "Fellowship Sports Medicine, Australia (2011)"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Dr. Karan Yadav",
+    "about": "Expert in trauma and fracture management. His quick decision‑making in emergencies saves lives daily. Patients admire his dedication and clear post‑surgery follow‑up. Also runs free orthopedic camps in rural areas.",
+    "department": "Orthopedics",
+    "degree": "MBBS, MS (Orthopedics)",
+    "age": 41,
+    "email": "abc@gmail.com",
+    "phone": 9567456734,
+    "experience": "13 years",
+    "imageUrl": "...",
+    "education": [
+      "MBBS, VMMC & Safdarjung Delhi (2002)",
+      "MS Orthopedics, PGIMER Chandigarh (2005)"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Dr. Divya Rane",
+    "about": "Focuses on pediatric orthopedic cases and congenital bone disorders. Kids love her friendly nature and parents trust her advice. Passionate about improving bone health early in life. Regularly hosts educational sessions for families.",
+    "department": "Orthopedics",
+    "degree": "MBBS, DNB (Orthopedics)",
+    "age": 35,
+    "email": "abc@gmail.com",
+    "phone": 9567456734,
+    "experience": "8 years",
+    "imageUrl": "...",
+    "education": [
+      "MBBS, Goa Medical College (2007)",
+      "DNB Orthopedics, Hinduja Hospital Mumbai (2010)"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Dr. Manoj Shetty",
+    "about": "Renowned for his advanced spinal surgeries and rehab guidance. He ensures patients are well‑informed about every step. Believes in combining physiotherapy and medical science. Leads workshops on spinal health regularly.",
+    "department": "Orthopedics",
+    "degree": "MBBS, MS, Fellowship in Spine Surgery",
+    "age": 47,
+    "email": "abc@gmail.com",
+    "phone": 9567456734,
+    "experience": "17 years",
+    "imageUrl": "...",
+    "education": [
+      "MBBS, KMC Manipal (1998)",
+      "MS Orthopedics, MS Ramaiah Medical College (2001)",
+      "Fellowship Spine Surgery, Singapore General Hospital (2003)"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Dr. Ruchi Mehta",
+    "about": "A dermatologist known for treating acne, pigmentation, and hair issues. Promotes natural skincare with modern dermatological tools. Friendly, informative, and trusted by young patients. Regularly appears in skincare awareness programs.",
+    "department": "Dermatology",
+    "degree": "MBBS, MD (Dermatology)",
+    "age": 36,
+    "email": "abc@gmail.com",
+    "phone": 9567456734,
+    "experience": "10 years",
+    "imageUrl": "...",
+    "education": [
+      "MBBS, Govt Medical College Surat (2004)",
+      "MD Dermatology, BJMC Ahmedabad (2007)"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Dr. Ishaan Roy",
+    "about": "Expert in skin allergy and cosmetic dermatology. Focuses on laser treatments and anti‑aging care. Believes that healthy skin builds confidence. Offers tailored skin plans with visible results.",
+    "department": "Dermatology",
+    "degree": "MBBS, MD, Diploma in Aesthetic Medicine",
+    "age": 40,
+    "email": "abc@gmail.com",
+    "phone": 9567456734,
+    "experience": "14 years",
+    "imageUrl": "...",
+    "education": [
+      "MBBS, Calcutta Medical College (2001)",
+      "MD Dermatology, AIIMS Delhi (2004)",
+      "Diploma Aesthetic Medicine, American Academy (2007)"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Dr. Payal Sharma",
+    "about": "Specializes in pediatric dermatology and eczema treatment. Calms anxious kids and educates parents with clarity. Advocates for organic skincare in children. Loved for her patient‑centric approach.",
+    "department": "Dermatology",
+    "degree": "MBBS, MD (Dermatology)",
+    "age": 34,
+    "email": "abc@gmail.com",
+    "phone": 9567456734,
+    "experience": "9 years",
+    "imageUrl": "...",
+    "education": [
+      "MBBS, GMC Amritsar (2005)",
+      "MD Dermatology, PGI Rohtak (2008)"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Dr. Varun Bhagat",
+    "about": "Passionate about treating chronic skin conditions like psoriasis and vitiligo. Integrates diet and dermatology for lasting results. Runs online awareness drives on skin positivity. Patients value his consistent care.",
+    "department": "Dermatology",
+    "degree": "MBBS, MD (Dermatology)",
+    "age": 43,
+    "email": "abc@gmail.com",
+    "phone": 9567456734,
+    "experience": "16 years",
+    "imageUrl": "...",
+    "education": [
+      "MBBS, GMC Jammu (2000)",
+      "MD Dermatology, AIIMS Delhi (2003)"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Dr. Neha Pillai",
+    "about": "Aesthetic dermatologist with expertise in fillers and skin rejuvenation. Combines medical science with beauty. Focuses on minimal procedures for natural results. Known for boosting confidence through skin care.",
+    "department": "Dermatology",
+    "degree": "MBBS, MD, Fellowship in Aesthetic Dermatology",
+    "age": 38,
+    "email": "abc@gmail.com",
+    "phone": 9567456734,
+    "experience": "11 years",
+    "imageUrl": "...",
+    "education": [
+      "MBBS, Kerala Univ Health Sciences (2004)",
+      "MD Dermatology, KMC Manipal (2007)",
+      "Fellowship Aesthetic Dermatology, Mumbai (2009)"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Dr. Tanvi Shinde",
+    "about": "A skilled physician treating chronic illnesses like diabetes and hypertension. She emphasizes preventive care and lifestyle counseling. Patients admire her attentive listening and clear explanations. Always puts patient comfort first.",
+    "department": "General Medicine",
+    "degree": "MBBS, MD (General Medicine)",
+    "age": 40,
+    "email": "abc@gmail.com",
+    "phone": 9567456734,
+    "experience": "13 years",
+    "imageUrl": "...",
+    "education": [
+      "MBBS, Govt Medical College Nagpur (2002)",
+      "MD General Medicine, GMC Nagpur (2006)"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Dr. Pranav Kulkarni",
+    "about": "Handles infectious diseases and seasonal flu with high precision. Provides evidence‑based treatments and health education. Known for his approachable personality and clinical accuracy. Regularly conducts free health checkup camps.",
+    "department": "General Medicine",
+    "degree": "MBBS, MD (General Medicine)",
+    "age": 39,
+    "email": "abc@gmail.com",
+    "phone": 9567456734,
+    "experience": "12 years",
+    "imageUrl": "...",
+    "education": [
+      "MBBS, DY Patil Medical College Pune (2003)",
+      "MD General Medicine, JJ Hospital Mumbai (2007)"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Dr. Meenal Joshi",
+    "about": "She combines compassion and science while treating general medical conditions. Known for her detailed evaluations and patient education. Advocates regular screenings for better long‑term health. Trusted by families for decades.",
+    "department": "General Medicine",
+    "degree": "MBBS, MD (General Medicine)",
+    "age": 45,
+    "email": "abc@gmail.com",
+    "phone": 9567456734,
+    "experience": "18 years",
+    "imageUrl": "...",
+    "education": [
+      "MBBS, AIIMS Delhi (1996)",
+      "MD General Medicine, AIIMS Delhi (1999)"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Dr. Raghav Khurana",
+    "about": "Focuses on geriatric medicine and chronic disease management. Believes in building long‑term trust with patients. Advocates for balanced living and early intervention. Leads lifestyle improvement seminars across the city.",
+    "department": "General Medicine",
+    "degree": "MBBS, MD (Internal Medicine)",
+    "age": 50,
+    "email": "abc@gmail.com",
+    "phone": 9567456734,
+    "experience": "20 years",
+    "imageUrl": "...",
+    "education": [
+      "MBBS, MAMC Delhi (1995)",
+      "MD Internal Medicine, CMC Vellore (1999)"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Dr. Kavita Nimbalkar",
+    "about": "Highly experienced in treating metabolic and hormonal disorders. Patient‑friendly, thorough, and practical with her advice. Keeps herself updated with medical research and public health trends. A trusted family physician for many.",
+    "department": "General Medicine",
+    "degree": "MBBS, MD (General Medicine)",
+    "age": 43,
+    "email": "abc@gmail.com",
+    "phone": 9567456734,
+    "experience": "15 years",
+    "imageUrl": "...",
+    "education": [
+      "MBBS, TN Medical College Mumbai (2002)",
+      "MD General Medicine, KEM Hospital Mumbai (2006)"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Dr. Aditya Sharma",
+    "about": "Pediatrician with a gentle, friendly approach that kids love. Specializes in vaccinations, nutrition, and growth monitoring. Educates parents with clarity and patience. Passionate about building healthy childhoods.",
+    "department": "Pediatrics",
+    "degree": "MBBS, MD (Pediatrics)",
+    "age": 35,
+    "email": "abc@gmail.com",
+    "phone": 9567456734,
+    "experience": "9 years",
+    "imageUrl": "...",
+    "education": [
+      "MBBS, SMS Medical College Jaipur (2008)",
+      "MD Pediatrics, PGIMER Chandigarh (2012)"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Dr. Ritu Bansal",
+    "about": "Experienced pediatrician who handles newborn to adolescent care. Her warm nature calms both kids and parents. Focuses on developmental milestones and early diagnosis. Known for her dedicated follow‑ups and advice.",
+    "department": "Pediatrics",
+    "degree": "MBBS, DCH, MD (Pediatrics)",
+    "age": 42,
+    "email": "abc@gmail.com",
+    "phone": 9567456734,
+    "experience": "14 years",
+    "imageUrl": "...",
+    "education": [
+      "MBBS, LHMC Delhi (2003)",
+      "DCH, AIIMS Delhi (2006)",
+      "MD Pediatrics, AIIMS Delhi (2008)"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Dr. Aman Trivedi",
+    "about": "Focused on pediatric infectious diseases and immunity building. Helps anxious parents with clear and reassuring guidance. Has a playful bond with children during consultations. Regularly shares parenting tips on social media.",
+    "department": "Pediatrics",
+    "degree": "MBBS, MD (Pediatrics)",
+    "age": 38,
+    "email": "abc@gmail.com",
+    "phone": 9567456734,
+    "experience": "11 years",
+    "imageUrl": "...",
+    "education": [
+      "MBBS, NHL Medical College Ahmedabad (2005)",
+      "MD Pediatrics, B.J. Medical College Ahmedabad (2008)"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Dr. Sanika Rao",
+    "about": "Expert in child nutrition, allergies, and behavioral issues. Takes time to educate parents on long‑term child health. Empathetic and understanding, especially in special needs cases. Loved by kids for her fun style.",
+    "department": "Pediatrics",
+    "degree": "MBBS, DNB (Pediatrics)",
+    "age": 34,
+    "email": "abc@gmail.com",
+    "phone": 9567456734,
+    "experience": "8 years",
+    "imageUrl": "...",
+    "education": [
+      "MBBS, JIPMER Puducherry (2007)",
+      "DNB Pediatrics, Rainbow Hospital Hyderabad (2010)"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Dr. Vikram Sethi",
+    "about": "Highly skilled in managing pediatric emergencies and fevers. Keeps the clinic child‑friendly and interactive. Offers growth tracking, mental health tips, and parenting advice. A go‑to doctor for many young families.",
+    "department": "Pediatrics",
+    "degree": "MBBS, MD (Pediatrics)",
+    "age": 40,
+    "email": "abc@gmail.com",
+    "phone": 9567456734,
+    "experience": "13 years",
+    "imageUrl": "...",
+    "education": [
+      "MBBS, Grant Medical College Mumbai (2004)",
+      "MD Pediatrics, KEM Hospital Mumbai (2008)"
+    ]
+  }
+]
